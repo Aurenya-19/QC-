@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+build/
+dist/
+.tmp/
+.cache/
+
+# Replit junk
+.replit
+replit.nix
+*.sqlite
+*.db
+
+# Firebase junk
+firebase-debug.log
+.firebase/
